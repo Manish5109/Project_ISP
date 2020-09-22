@@ -32,7 +32,10 @@ public class CustomQueue {
 			}
 		}
 	}
-	// stack testing
+	
+	/**
+	 * testing stack 
+	 */
 	public static void stackTest() {
 		 Stack<Integer> stack = new Stack<Integer>();
 		 stack.push(1);
