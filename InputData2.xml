@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<networks>
+	<network>
+		<site name="A" latitude="1" longitude="2" />
+		<site name="B" latitude="1.5" longitude="3" />
+	</network>
+	<network>
+		<site name="C" latitude="2" longitude="4" />
+		<site name="D" latitude="2.5" longitude="5" />
+	</network>
+	<network>
+		<site name="E", latitude="3", longitude="6" />
+		<site name="F", latitude="3.5", longitude="7" />
+	</network>
+	<network>
+		<site name="G" latitude="4" longitude="8" />
+		<site name="H", latitude="4.5" longitude="9" />
+	</network>
+	<network>
+		<site name="I" latitude="5" longitude="10" />
+		<site name="J" latitude="5.5" longitude="11" />
+	</network>
+</networks>
+</xml>

@@ -6,8 +6,10 @@ public class MaxNumber {
 		int max = ary[0];
 
 		for (int i = 1; i < ary.length; i++)
-			if (ary[i] > max)
+			if (ary[i] > max) {
 				max = ary[i];
+			}
+				
 
 		System.out.println(max);
 	}
